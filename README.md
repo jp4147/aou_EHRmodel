@@ -1,2 +1,2 @@
-# aou_EHRmodel
+# cancer_type_classification
 To identify and categorize cancer-related diagnoses in OMOP-structured EHR data, we first extracted all descendant concepts of “malignant neoplastic disease” (OMOP concept ID 443392). We then used a GPT-4o–based prompt approach to classify these concept names into predefined cancer types (e.g., colorectal, liver, skin). The prompt and cancer type definitions were refined iteratively with clinician input
