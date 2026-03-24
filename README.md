@@ -12,3 +12,5 @@ Key components:
 - Clinical utility evaluation using lift, PPV, and NNS
 
 To identify and categorize cancer-related diagnoses in OMOP-structured EHR data, we first extracted all descendant concepts of “malignant neoplastic disease” (OMOP concept ID 443392). We then used a GPT-4o–based prompt approach to classify these concept names into predefined cancer types (e.g., colorectal, liver, skin). The prompt and cancer type definitions were refined iteratively with clinician input
+
+The full training code for the EHR foundation models (CEHR-GPT and MOTOR), including an All of Us (AoU) tutorial, is publicly available at https://github.com/knatarajan-lab/cehrgpt
