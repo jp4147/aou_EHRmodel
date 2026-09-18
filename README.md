@@ -1,6 +1,6 @@
 This repository contains code to reproduce analyses from:
 
-[Toward Scalable Early Cancer Detection: Evaluating EHR-Based Predictive Models Against Traditional Screening Criteria](https://arxiv.org/abs/2511.11293)
+[Toward Scalable Early Cancer Detection: Evaluating EHR-Based Predictive Models Against Traditional Screening Criteria](https://www.nature.com/articles/s41698-026-01483-1)
 
 We develop and evaluate EHR-based predictive models for identifying high-risk individuals across multiple cancer types using OMOP-formatted data.
 
